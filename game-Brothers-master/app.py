@@ -70,4 +70,4 @@ async def on_message(message):
     print('{}: {}'.format(author, content))
 
 
-client.run('NTI4MDMyMzc5MTQzNzE2ODY0.Dww8Sw.ufk9cLNHKyBmVyBde1cebjzpuAE')
+client.run('NTk1MjA5OTE2NTc1MzgzNTcz.XRnqcw.-taYGjJ-M_xTWs-1u43hCcBbAjU')
